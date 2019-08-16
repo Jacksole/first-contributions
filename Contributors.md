@@ -8,6 +8,7 @@
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
+- [Le Aundre Jackson](https://github.com/Jacksole)
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
